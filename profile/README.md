@@ -18,7 +18,7 @@ on complex distributed infrastructures.
   <img src="https://wfcommons.org/images/wfcommons-concept.png" width="650" />
 </p>
 
-- **WfFormat**: A universal JSON format, ensuring seamless integration across simulators and frameworks supported by WfCommons
+- **[WfFormat](https://github.com/wfcommons/WfFormat)**: A universal JSON format, ensuring seamless integration across simulators and frameworks supported by WfCommons
 
 - **[WfInstances](https://github.com/wfcommons/wfinstances)**: Curated collection of open-access production workflow executions in the standardized WfFormat
 
