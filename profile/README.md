@@ -8,8 +8,8 @@
   <a href="https://pepy.tech/project/wfcommons" target="_blank"><img src="https://static.pepy.tech/personalized-badge/wfcommons?period=total&units=international_system&left_color=grey&right_color=yellowgreen&left_text=Downloads" /></a>
 </p>
 
-[WfCommons](https://wfcommons.org) is a collaborative framework empowering 
-scientific workflow research and development. Our tools analyze workflow 
+[WfCommons](https://wfcommons.org) is a collaborative framework for empowering 
+scientific workflow research and development. WfCommons tools analyze workflow 
 execution instances, generate synthetic yet realistic workflows, define 
 benchmark specifications, and pioneer new techniques to optimize execution 
 on complex distributed infrastructures.
@@ -21,6 +21,8 @@ on complex distributed infrastructures.
 - **[WfFormat](https://github.com/wfcommons/WfFormat)**: A universal JSON format, ensuring seamless integration across simulators and frameworks supported by WfCommons
 
 - **[WfInstances](https://github.com/wfcommons/wfinstances)**: Curated collection of open-access production workflow executions in the standardized WfFormat
+
+- **[WfInstances browser](https://wfinstances.ics.hawaii.edu)**: A web app for browsing, selecting, visualizing, and simulating WfInstances workflow isntances
 
 - **WfChef**: Automated creation of synthetic workflow generators by analyzing real workflows to uncover task patterns and performance characteristics
 
